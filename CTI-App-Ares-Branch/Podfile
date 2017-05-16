@@ -1,0 +1,20 @@
+source 'https://github.com/CocoaPods/Specs.git'
+
+# Uncomment this line to define a global platform for your project
+platform :ios, '9.2'
+# Uncomment this line if you're using Swift
+use_frameworks!
+
+target 'CTI Translators' do
+    pod 'Firebase/Core'
+	pod 'Firebase/AppIndexing'
+	pod 'Firebase/Auth'
+	pod 'Firebase/Crash'
+	pod 'Firebase/Database'
+	pod 'Firebase/DynamicLinks'
+	pod 'Firebase/Invites'
+	pod 'Firebase/Messaging'
+	pod 'Firebase/RemoteConfig'
+	pod 'Firebase/Storage'
+  	pod 'JSQMessagesViewController'
+end

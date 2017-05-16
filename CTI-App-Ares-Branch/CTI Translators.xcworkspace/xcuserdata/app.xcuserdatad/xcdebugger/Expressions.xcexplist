@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "TimeclockController.(get_filtered(Int) -&gt; ()).(closure #1):TimeclockController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "$0.fecha">
+            </PersistentString>
+            <PersistentString
+               value = "tcs_filtered">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "TimeclockController.create_tc(NSDictionary) -&gt; ():TimeclockController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "timer!.end_time">
+            </PersistentString>
+            <PersistentString
+               value = "end">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "RequestsViewController.(get_jobs() -&gt; ()).(closure #1).(closure #1):RequestsViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "RequestViewController.(make_request(String, info : String, action : Bool) -&gt; ()).(closure #1).(closure #1):RequestViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "error_status">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

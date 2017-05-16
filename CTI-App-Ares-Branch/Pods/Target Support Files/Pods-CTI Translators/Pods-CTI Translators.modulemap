@@ -1,0 +1,6 @@
+framework module Pods_CTI_Translators {
+  umbrella header "Pods-CTI Translators-umbrella.h"
+
+  export *
+  module * { export * }
+}
